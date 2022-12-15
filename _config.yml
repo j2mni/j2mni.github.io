@@ -33,12 +33,12 @@ twitter:
   card: summary
 logo: logo.png
 social:
-  name: Songzi Vong
+  name: j2mni
   links:
     - https://twitter.com/vszhub
-    - https://github.com/vszhub
+    - https://github.com/j2mni
 google_site_verification: xxxxx
-lang: en
+lang: ko
 
 sass:
   sass_dir: _sass
@@ -54,9 +54,9 @@ sass:
 
 # Specify the author for blog posts
 author:
-  name: Songzi Vong
-  url: https://github.com/vszhub/
-  email: vszhub@gmail.com
+  name: j2mni
+  url: https://github.com/j2mni/
+  email: honeyminis2@naver.com
         
 plugins:
   - jekyll-remote-theme
