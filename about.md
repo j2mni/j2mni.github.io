@@ -1,8 +1,8 @@
 ---
 layout: page
-title: About
+title: 안녕하세요 병아리 iOS 개발자 권지민입니다 🙋🏻‍♀️
 ---
 
-**Not Pure Poole** is a simple, beautiful, and powerful Jekyll theme for blogs. It is built on [Poole](https://github.com/poole/poole) and [Pure](https://purecss.io/).
+[**GitHub**] (https://github.com/j2mni)
+[**이력서**] (https://www.notion.so/IOS-8322896a8c1e48b1862887a896044ee6)
 
-For more information about Not Pure Poole, please browse the [README](https://github.com/vszhub/not-pure-poole) file.
